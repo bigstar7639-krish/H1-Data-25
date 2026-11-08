@@ -58,3 +58,6 @@ A: 9 - Entertainment: Video Games
 Auto Quiz - Fashion 🧠
 Q: Which of these plays was famously first performed posthumously after the playwright committed suicide?
 A: 4.48 Psychosis - Entertainment: Musicals & Theatres
+Auto Quiz - Game 🧠
+Q: Which artist painted the late 15th century mural 'The Last Supper'?
+A: Leonardo da Vinci - Art
