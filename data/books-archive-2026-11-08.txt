@@ -53,3 +53,4 @@ Game - gamecandle0000kayr - the game and the candle
 Sport - bwb_S0-BXB-671 - Sport Shoes And Playing Surfaces Biomechanical Properties
 Sport - bwb_S0-ACG-545 - sport royal
 Football - footballchampion0000unse - football champions
+Football - football-program-1940-nov.-3-ssc-vs-jesuit - Football Program 1940, Nov. 3 SSC Vs Jesuit
