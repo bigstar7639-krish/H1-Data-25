@@ -28,3 +28,4 @@ Baby - girlfriendsguide00iovi_0 - The girlfriends' guide to baby gear
 Baby - expectingrancher0000gold - Expecting the rancher's baby
 Teacher - bwb_C0-BPX-797 - teacher, teacher, I done it! I done it! I done done it!
 Teacher - bwb_S0-CBG-611 - The Discrenible Teacher
+Student - isbn_9781572592469 - Student Solutions Manual to Accompany College Algebra
