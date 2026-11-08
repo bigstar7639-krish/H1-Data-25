@@ -82,3 +82,6 @@ A: Julius - Politics
 Auto Quiz - Study 🧠
 Q: In the game series "The Legend of Zelda", what was the first 3D game?
 A: Ocarina of Time - Entertainment: Video Games
+Auto Quiz - Success 🧠
+Q: How many stars are there to collect in Super Mario 64?
+A: 120 - Entertainment: Video Games
