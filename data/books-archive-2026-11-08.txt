@@ -34,3 +34,4 @@ Business - isbn_9780030978555 - Business Research Methods
 Business - phm_test_business_ms4d95ul - PHM Test Business
 Money - bwb_S0-AXX-331 - Stop burning your money
 Money - bwb_Y0-BTG-489 - Kiplinger's CA-Simply Money
+Yoga - bwb_KU-662-423 - the perfection of yoga
