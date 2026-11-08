@@ -52,3 +52,4 @@ Game - bwb_S0-BWV-057 - Fish and Game Cook Book
 Game - gamecandle0000kayr - the game and the candle
 Sport - bwb_S0-BXB-671 - Sport Shoes And Playing Surfaces Biomechanical Properties
 Sport - bwb_S0-ACG-545 - sport royal
+Football - footballchampion0000unse - football champions
