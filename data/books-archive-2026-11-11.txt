@@ -58,3 +58,7 @@ Cricket - bwb_S0-EBY-685 - A Christmas Carol , The Cricket on the Hearth
 Food - lunchboxfood0000shar_x1h2 - Lunch Box Food
 Food - thomasfoodbevera0000rich - Thomas Food & Beverage Market Place 2006 (Thomas Food and Beverage Market Place)
 Cricket - bwb_KV-028-408 - It Isn't Cricket
+Space - perceptionextens0000ralp - Perception, Extension, And Enclosure Of Space
+Space - bwb_C0-BNX-912 - That Manuscript from outer space
+Story - storyofchurch0000char_i4n8 - The Story of the Church
+Story - christmasstory0000unse_g3f0 - THE CHRISTMAS STORY
