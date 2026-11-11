@@ -214,3 +214,9 @@ Future - pubmed-PMC3339227 - Neurological soft signs in schizophrenia - The past
 Future - futureofpubliced0000unse - The Future of Public Education
 Freedom - freedom00leon - Freedom : more than 600 quotes celebrating independence, liberty, and justice
 Freedom - bwb_S0-ATH-647 - vanishing dinosaur freedom as vocation
+Reading - bwb_P9-ECQ-185 - Reading Time
+Reading - bwb_C0-AWT-801_2 - reading in economic analysis
+Writing - bwb_O8-ABL-216 - Adventures in Medical Writing
+Writing - bwb_O6-BGC-949 - IEEE Engineers Guide to Business: Writing for Carreer Growth
+Poetry - bwb_C0-BNY-939 - British Poetry and Prose
+Poetry - bwb_T5-ASO-592 - british poetry and prose
