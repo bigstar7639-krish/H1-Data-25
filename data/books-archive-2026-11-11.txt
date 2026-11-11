@@ -220,3 +220,5 @@ Writing - bwb_O8-ABL-216 - Adventures in Medical Writing
 Writing - bwb_O6-BGC-949 - IEEE Engineers Guide to Business: Writing for Carreer Growth
 Poetry - bwb_C0-BNY-939 - British Poetry and Prose
 Poetry - bwb_T5-ASO-592 - british poetry and prose
+Singing - bwb_Y0-AGF-288 - Singing Teen-Agers Songs for the Youth
+Singing - pitched-gospel-singing-soul-sample-sample-focus - Pitched Gospel Singing Soul Sample Sample Focus
