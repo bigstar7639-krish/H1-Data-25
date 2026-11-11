@@ -222,3 +222,7 @@ Poetry - bwb_C0-BNY-939 - British Poetry and Prose
 Poetry - bwb_T5-ASO-592 - british poetry and prose
 Singing - bwb_Y0-AGF-288 - Singing Teen-Agers Songs for the Youth
 Singing - pitched-gospel-singing-soul-sample-sample-focus - Pitched Gospel Singing Soul Sample Sample Focus
+Dancing - oapen-20.500.12657-79419 - Chapter 4.9 A chorus of dancing voices curated by Katye Coe
+Dancing - bwb_KV-542-049 - The dancing dodo
+Tamil - SpeakEnglishInTamil_201810 - speak english in tamil
+Tamil - adimudi-siddhar-thiruvannamalai-and-siddhar-tradition-of-tamil-nadu-compressed - Adimudi Siddhar, Thiruvannamalai, And Siddhar Tradition Of Tamil Nadu Compressed
