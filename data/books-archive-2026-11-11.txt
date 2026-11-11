@@ -196,3 +196,5 @@ Psychology - isbn_070345708 - Social psychology
 Psychology - isbn_9780558105211 - Organizational & Industrial Psychology, Custom Edition
 Philosophy - bwb_T3-BPE-768_20 - Further Studies in Philosophy
 Philosophy - bwb_T3-BPE-769 - Hegel's Philosophy of Right
+Economics - moderneconomics0000arth - modern economics
+Economics - isbn_9780536824394 - Economics (Principles and Tools Custom Edition)
