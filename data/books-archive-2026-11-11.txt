@@ -98,3 +98,5 @@ Student - isbn_9781572592469 - Student Solutions Manual to Accompany College Alg
 Student - stickyassessment0000gree - Sticky assessment : classroom strategies to amplify student learning
 Business - georgeiiimadbusi0000idam - George III and the Mad-Business,
 Business - futureoforganiza0000coli - The Future of the Organization: Achieving Excellence Through Business Transformation
+Yoga - bwb_KU-662-423 - the perfection of yoga
+Yoga - justsayyestolaug0000bhat - Just say "Yes" to laughing your way to fitness with yoga and meditation (and that's no joke)
