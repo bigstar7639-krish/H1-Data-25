@@ -152,3 +152,7 @@ Truth - isbn_9781534672925 - The Truth Healer : Book 1: The Rosie Parker Mystery
 Truth - gameoftruth0000case - Game of truth
 Wisdom - isbn_9781410747990 - Wisdom from Childhood
 Wisdom - practicalwisdoms0000chen - practical wisdom series
+Power - isbn_9780977294701 - Power Steps
+Power - isbn_9780765234308 - COMPREHENSION POWER READERS LOBSTERING GRADE FOUR 2004C
+Magic - bwb_S0-ADB-783 - the magic garden of my book house
+Magic - isbn_0887234941 - Bottom Line's Household Magic
